@@ -10,8 +10,8 @@ Unlock your Snowflake Data Cloud's full potential and transform how your organiz
 
 ## Table of Contents
 
-- [Installation](##installation)
-- [Usage](##usage)
+- [Installation](#installation)
+- [Usage](#usage)
 
 
 ## Installation
