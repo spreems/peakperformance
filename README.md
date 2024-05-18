@@ -1,4 +1,3 @@
-# peakperformance
 # Project Name  :   Peak Performance
 
 ![Kiku](images/Kiku.jpg)
