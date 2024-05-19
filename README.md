@@ -73,7 +73,7 @@ Unlock your Snowflake Data Cloud's full potential and transform how your organiz
 
 ```sql
 --###############   Setup references to objects related to  Alation Consumption Tracker  START   ###############--
-
+	GRANT IMPORTED PRIVILEGES ON DATABASE SNOWFLAKE TO <APP_NAME>;
 ```
 
 ## script2
