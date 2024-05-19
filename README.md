@@ -22,7 +22,9 @@ Unlock your Snowflake Data Cloud's full potential and transform how your organiz
 
 ## Pre-requisite For Alation customers
 •	Trigger the Alation Replication to Snowflake
+
 •	Initiate a Support Ticket to request Alation Consumption Tracker and Alation Analytics Data share from Snowflake instance owned by Alation
+
 •	Follow the Instructions to get the privately shared database from Alationa name the database AlationaACTAA ( Feel free to use your naming convention as per your organization Standards) 
 	This database name will be required to be updated in the SQl Script below if named different than "ALATIONACTAA"
 
