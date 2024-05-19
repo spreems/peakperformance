@@ -19,19 +19,6 @@ Unlock your Snowflake Data Cloud's full potential and transform how your organiz
 •	Navigate to Data Products --> Market Place
     Search for Peak Performance  --> Click On "Get"
 
-## Usage
-
-•	Comprehensive Data Intelligence: 
-        With Peak Performance, you can instantly gain visibility across all connected data sources and databases within your enterprise. 
-•	Enterprise Visibility: 
-        With Peak Performance, you can monitor the health, cost, and performance of your Snowflake Data Cloud. This means you can always stay on top of your data operations and make informed decisions.
-•	Optimized Cost Performance Analysis: 
-        Peak Performance provides detailed insights into your data estate and Snowflake usage. It enables businesses to identify areas of inefficiency and optimize credit consumption, storage, and query efficiencies. This leads to higher ROI and a supercharged Snowflake environment, ensuring you maximize your Snowflake investment.
-•	User and Query Analytics: 
-        With Peak Performance, you can track successful and failed logins, average execution time by user or query type, and much more for enhanced security and efficiency. 
-•	Optimizing Data Operations: 
-        With Peak Performance, you can access detailed analytics on CPU usage, execution times, and query performance to fine-tune your data operations.
-
 ## SETUP SQL
 Setup references to objects related to  Alation Consumption Tracker  START
 
@@ -170,6 +157,63 @@ Setup references to objects related to Alation Analytics  START
 SHOW REFERENCES IN APPLICATION Peak_Performance_Lite;
 ```
 
+## Usage
+
+### PEAK PERFORMANCE SITE MAP
+
+Clieck on Sitemap icon and navigate from site map.
+	Default Selected category will be the first option in Source Category drop down. Select a different Source Category to view other Site maps.
+
+•	Snowflake: 
+	
+	Peak Performance provides detailed insights into your data estate and Snowflake usage. 
+	It enables businesses to identify areas of inefficiency and optimize credit consumption, storage, and query efficiencies.
+	You can monitor the health, cost, and performance of your Snowflake Data Cloud.	
+	you can track successful and failed logins, average execution time by user or query type, and much more for enhanced security and efficiency.
+	![PP_SF_001](img/PP_SF_001.png)
+
+	Please Note: Snowflake Application Owner previlages apply to queries executed on Account_Usage and Organization_Usage Schema's in Snowflake Shared database
+
+•	Alation Consumption Tracker: 
+	
+	With Peak Performance, you can instantly gain visibility across all connected data sources and databases within your enterprise. 
+	You can instantly gain access to the migration path, progress, trusted data
+	You can instantly monitor cost, consumption and usage history
+	![PP_ACT_001](img/PP_ACT_001.png)
+
+•	Alation Analytics:
+
+	With Peak Performance, you can instantly gain analytic visibility into connected data sources and databases within your enterprise. 
+	You can instantly gain access to the top contributors and adoption
+	![PP_AA_001](img/PP_AA_001.png)
+	
+### Peak Performance Header Control
+	![PP_HC_001](img/PP_HC_001.png)
+
+•	Source Category:
+
+		![PP_HC_001](img/PP_HC_SC_001.png)
+
+•	Report Category:
+		![PP_HC_001](img/PP_HC_RC_001.png)
+
+•	Sub Category:
+		![PP_HC_001](img/PP_HC_SC_002.png)
+
+•	date From - To:
+		![PP_HC_001](img/PP_HC_CAL_001.png)
+
+•	Database Type:
+		![PP_HC_001](img/PP_HC_DBT_001.png)
+
+•	Users:
+		![PP_HC_001](img/PP_HC_U_001.png)
+
+###  Testing the below
+
+### This repository contains the sample code for the [Getting Started with Snowflake Native Apps Quicsktart](https://quickstarts.snowflake.com/guide/getting_started_with_native_apps/).
+
+![Snowflake Native Apps](https://quickstarts.snowflake.com/guide/getting_started_with_native_apps/img/edcfa4000a03ae36.png)
 
 ### This repository contains the sample code for the [Getting Started with Snowflake Native Apps Quicsktart](https://quickstarts.snowflake.com/guide/getting_started_with_native_apps/).
 
