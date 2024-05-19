@@ -13,10 +13,23 @@ Unlock your Snowflake Data Cloud's full potential and transform how your organiz
 - [Installation](#installation)
 - [Pre-requisite](#Pre-requisite-for-Alation-Customers)
 - [SETUP SQL](#SETUP-SQL)
+	- [script1](#script1)
+	- [script2](#script2)
+	- [script3](#script3)
+	- [script4](#script4)- 
 - [Usage](#usage)
 	- [PEAK PERFORMANCE SITE MAP](#PEAK-PERFORMANCE-SITE-MAP)
- 	- [Peak Performance Header Control](#Peak-Performance-Header-Control)
+	 	- [Snowflake](#Snowflake)
+	 	- [Alation Consumption Tracker](#Alation-Consumption-Tracker)
+	 	- [Alation Analytics](#Alation-Analytics)
 
+  	- [Peak Performance Header Control](#Peak-Performance-Header-Control)
+ 		- [Source Category](#Source-Category)
+ 		- [Report  Category](#Report-Category)
+ 		- [Sub Category](#Sub-Category)
+ 		- [Date From - To](#date-From---To)
+ 		- [Database Type](#Database-Type)
+ 		- [Users](#Users)
 
 ## Installation
 
@@ -205,7 +218,7 @@ SHOW REFERENCES IN APPLICATION Peak_Performance_Lite;
 Click on Site map icon and navigate from Site map.
 Default Selected category will be the first option in Source Category drop down. Select a different Source Category to view other Site maps.
 
-•	Snowflake: 
+#### Snowflake: 
 	
 Peak Performance provides detailed insights into your data estate and Snowflake usage. 
 It enables businesses to identify areas of inefficiency and optimize credit consumption, storage, and query efficiencies.
@@ -215,14 +228,14 @@ you can track successful and failed logins, average execution time by user or qu
 
 Please Note: Snowflake Application Owner Privilages apply to queries executed on Account_Usage and Organization_Usage Schema's in Snowflake Shared database
 
-•	Alation Consumption Tracker: 
+#### Alation Consumption Tracker: 
 	
 With Peak Performance, you can instantly gain visibility across all connected data sources and databases within your enterprise. 
 You can instantly gain access to the migration path, progress, trusted data
 You can instantly monitor cost, consumption and usage history
 ![PP_ACT_001](img/PP_ACT_001.png)
 
-•	Alation Analytics:
+#### Alation Analytics:
 
 With Peak Performance, you can instantly gain analytic visibility into connected data sources and databases within your enterprise. 
 You can instantly gain access to the top contributors and adoption
@@ -233,32 +246,32 @@ Description........................................
 .........................................................
 ![PP_HC_001](img/PP_HC_001.png)
 
-•	Source Category:
+#### Source Category:
 Description........................................
 .........................................................
 ![PP_HC_001](img/PP_HC_SC_001.png)
 
-•	Report Category:
+#### Report Category:
 Description........................................
 .........................................................
 ![PP_HC_001](img/PP_HC_RC_001.png)
 
-•	Sub Category:
+#### Sub Category:
 Description........................................
 .........................................................
 ![PP_HC_001](img/PP_HC_SC_002.png)
 
-•	date From - To:
+#### Date From - To:
 Description........................................
 .........................................................
 ![PP_HC_001](img/PP_HC_CAL_001.png)
 
-•	Database Type:
+#### Database Type:
 Description........................................
 .........................................................
 ![PP_HC_001](img/PP_HC_DBT_001.png)
 
-•	Users:
+#### Users:
 Description........................................
 .........................................................
 ![PP_HC_001](img/PP_HC_U_001.png)
