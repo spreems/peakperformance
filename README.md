@@ -163,7 +163,7 @@ $tbl , 'ADD', SYSTEM$REFERENCE('TABLE', $dbname || '.' || $schemaAA || '.' || $t
 --###############         Setup references to objects related to Alation Analytics  END        ###############--
 ```
 
-Setup references to objects related to Alation Analytics  START
+View and review the references that were set up as per the above code
 
 ```sql
 SHOW REFERENCES IN APPLICATION Peak_Performance_Lite;
