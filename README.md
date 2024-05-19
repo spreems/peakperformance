@@ -1,6 +1,6 @@
 # Project Name  :   Peak Performance
 
-![Kiku](img/PP_001.png)
+![peakperformance](img/PP_001.png)
 
 Peak Performance is a powerful solution that delivers numerous benefits to Snowflake customers. It facilitates maximum adoption growth and data maturity, ensuring complete enterprise visibility across the health, cost, and performance of their Snowflake Data Cloud. By leveraging Peak Performance, organizations can gain immediate data intelligence across their entire enterprise data estate. This enables visibility across every connected data source and database, allowing businesses to analyze patterns, optimize operations, and data-driven business growth. With this enhanced visibility, organizations can optimize their investment in Snowflake and extract the maximum value from their data.
 
@@ -20,6 +20,21 @@ Unlock your Snowflake Data Cloud's full potential and transform how your organiz
 
 •	Search for Peak Performance  --> Click On "Get"
 
+•	Follow Pre-requisite for Alation
+
+•	Execute SQL Script to grant access to Application to access Consumer Database
+- [script1](#script1)
+	Grant Access privilages to Snowflake Database
+- [script2](#script2)
+	Set up Alation Consumption Tracker Objects
+- [script3](#script3)
+	Set up Alation Analytics Objects
+- [script4](#script4)
+	Set up Alation consumption tracker Objects
+
+
+
+
 ## Pre-requisite For Alation customers
 •	Trigger the Alation Replication to Snowflake
 
@@ -32,8 +47,15 @@ Unlock your Snowflake Data Cloud's full potential and transform how your organiz
 
 ## SETUP SQL
 
+## script1
 
-Setup references to objects related for Alation Consumption Tracker  START
+```sql
+--###############   Setup references to objects related to  Alation Consumption Tracker  START   ###############--
+
+```
+
+## script2
+Setup references to objects related to Alation Consumption Tracker  START
 
 
 ```sql
@@ -73,6 +95,7 @@ CALL UPDATE_REFERENCE(
 --###############   Setup references to objects related to  Alation Consumption Tracker  END   ###############--
 ```
 
+## script3
 Setup references to objects related to Alation Analytics  START
 
 ```sql
@@ -164,7 +187,7 @@ $tbl , 'ADD', SYSTEM$REFERENCE('TABLE', $dbname || '.' || $schemaAA || '.' || $t
 
 --###############         Setup references to objects related to Alation Analytics  END        ###############--
 ```
-
+## script4
 View and review the references that were set up as per the above code
 
 ```sql
