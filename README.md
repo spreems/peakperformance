@@ -11,7 +11,11 @@ Unlock your Snowflake Data Cloud's full potential and transform how your organiz
 ## Table of Contents
 
 - [Installation](#installation)
+- [Pre-requisite](#Pre-requisite-for-Alation-Customers)
+- [SETUP SQL](#SETUP-SQL)
 - [Usage](#usage)
+	- [PEAK PERFORMANCE SITE MAP](#PEAK-PERFORMANCE-SITE-MAP)
+ 	- [Peak Performance Header Control](#Peak-Performance-Header-Control)
 
 
 ## Installation
@@ -35,7 +39,7 @@ Unlock your Snowflake Data Cloud's full potential and transform how your organiz
 
 
 
-## Pre-requisite For Alation customers
+## Pre-requisite for Alation Customers
 •	Trigger the Alation Replication to Snowflake
 
 •	Initiate a Support Ticket to request Alation Consumption Tracker and Alation Analytics Data share from Snowflake instance owned by Alation
