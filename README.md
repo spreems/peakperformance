@@ -1,22 +1,5 @@
 # Project Name  :   Peak Performance
 
-![peakperformance](PP_001.png)
-
-Peak Performance is a powerful solution that delivers numerous benefits to Snowflake customers. It facilitates maximum adoption growth and data maturity, ensuring complete enterprise visibility across the health, cost, and performance of their Snowflake Data Cloud. By leveraging Peak Performance, organizations can gain immediate data intelligence across their entire enterprise data estate. This enables visibility across every connected data source and database, allowing businesses to analyze patterns, optimize operations, and data-driven business growth. With this enhanced visibility, organizations can optimize their investment in Snowflake and extract the maximum value from their data.
-
-•	Get Started Today:
-Unlock your Snowflake Data Cloud's full potential and transform how your organization manages, analyzes, and optimizes data with Peak Performance. Our comprehensive solution empowers businesses with unmatched visibility and intelligence across their entire data landscape, ensuring efficient data management, governance, and enhanced decision-making capabilities.
-
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Pre-requisite](#Pre-requisite-for-Alation-Customers)
-- [SETUP SQL](#SETUP-SQL)
-	- [script1](#script1)
-	- [script2](#script2)
-	- [script3](#script3)# Project Name  :   Peak Performance
-
 ![peakperformance](img/PP_001.png)  
 
 Peak Performance is a powerful solution that delivers numerous benefits to Snowflake customers. It facilitates maximum adoption growth and data maturity, ensuring complete enterprise visibility across the health, cost, and performance of their Snowflake Data Cloud. By leveraging Peak Performance, organizations can gain immediate data intelligence across their entire enterprise data estate. This enables visibility across every connected data source and database, allowing businesses to analyze patterns, optimize operations, and data-driven business growth. With this enhanced visibility, organizations can optimize their investment in Snowflake and extract the maximum value from their data.  
